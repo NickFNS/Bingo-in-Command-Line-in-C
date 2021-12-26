@@ -1,0 +1,117 @@
+# depslib dependency file v1.0
+1604056641 source:c:\users\fsier\documents\tp bingo\tp bingo remake\carton.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"jugador.h"
+	"carton.h"
+	"partida.h"
+	"archivos.h"
+
+1604056641 c:\users\fsier\documents\tp bingo\tp bingo remake\jugador.h
+
+1604056641 c:\users\fsier\documents\tp bingo\tp bingo remake\carton.h
+
+1604056641 c:\users\fsier\documents\tp bingo\tp bingo remake\partida.h
+
+1604061054 source:c:\users\fsier\documents\tp bingo\tp bingo remake\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"jugador.h"
+	"carton.h"
+	"partida.h"
+	"archivos.h"
+
+1604054344 source:c:\users\fsier\documents\tp bingo\tp bingo remake\partida.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"jugador.h"
+	"carton.h"
+	"partida.h"
+	"archivos.h"
+
+1604054658 source:c:\users\fsier\documents\tp bingo\tp bingo remake\jugador.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"jugador.h"
+	"carton.h"
+	"partida.h"
+	"archivos.h"
+
+1604056641 c:\users\fsier\documents\tp bingo\tp bingo remake\archivos.h
+
+1604054344 source:c:\users\fsier\documents\tp bingo\tp bingo remake\archivos.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"jugador.h"
+	"carton.h"
+	"partida.h"
+	"archivos.h"
+
+1604054344 source:c:\users\fsier\documents\proyectos de codeblocks\tp bingo remake\archivos.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"jugador.h"
+	"carton.h"
+	"partida.h"
+	"archivos.h"
+
+1604056641 c:\users\fsier\documents\proyectos de codeblocks\tp bingo remake\jugador.h
+
+1604056641 c:\users\fsier\documents\proyectos de codeblocks\tp bingo remake\carton.h
+
+1604056641 c:\users\fsier\documents\proyectos de codeblocks\tp bingo remake\partida.h
+
+1604056641 c:\users\fsier\documents\proyectos de codeblocks\tp bingo remake\archivos.h
+
+1604056641 source:c:\users\fsier\documents\proyectos de codeblocks\tp bingo remake\carton.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"jugador.h"
+	"carton.h"
+	"partida.h"
+	"archivos.h"
+
+1604054658 source:c:\users\fsier\documents\proyectos de codeblocks\tp bingo remake\jugador.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"jugador.h"
+	"carton.h"
+	"partida.h"
+	"archivos.h"
+
+1604061054 source:c:\users\fsier\documents\proyectos de codeblocks\tp bingo remake\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"jugador.h"
+	"carton.h"
+	"partida.h"
+	"archivos.h"
+
+1604054344 source:c:\users\fsier\documents\proyectos de codeblocks\tp bingo remake\partida.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"jugador.h"
+	"carton.h"
+	"partida.h"
+	"archivos.h"
+
